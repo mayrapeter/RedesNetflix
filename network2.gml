@@ -14467,10 +14467,10 @@ graph [
     id "International Movies"
   ]
   node [
-    id " Sci-Fi & Fantasy"
+    id "Sci-Fi & Fantasy"
   ]
   node [
-    id " Thrillers"
+    id "Thrillers"
   ]
   node [
     id "Stand-Up Comedy"
@@ -14479,82 +14479,46 @@ graph [
     id "Action & Adventure"
   ]
   node [
-    id " Dramas"
-  ]
-  node [
-    id " International Movies"
+    id "Dramas"
   ]
   node [
     id "Cult Movies"
   ]
   node [
-    id " Independent Movies"
-  ]
-  node [
-    id " Romantic Movies"
-  ]
-  node [
-    id " Comedies"
-  ]
-  node [
-    id "Horror Movies"
-  ]
-  node [
-    id "Dramas"
-  ]
-  node [
-    id "Documentaries"
-  ]
-  node [
-    id " Horror Movies"
-  ]
-  node [
-    id " Music & Musicals"
-  ]
-  node [
-    id "Children & Family Movies"
-  ]
-  node [
-    id " Anime Features"
-  ]
-  node [
-    id " Sports Movies"
-  ]
-  node [
-    id "Classic Movies"
-  ]
-  node [
-    id "Thrillers"
-  ]
-  node [
-    id " LGBTQ Movies"
-  ]
-  node [
-    id " Faith & Spirituality"
-  ]
-  node [
-    id "Anime Features"
-  ]
-  node [
-    id "Music & Musicals"
-  ]
-  node [
-    id " Children & Family Movies"
-  ]
-  node [
-    id " Documentaries"
-  ]
-  node [
-    id " Cult Movies"
-  ]
-  node [
-    id "Movies"
+    id "Independent Movies"
   ]
   node [
     id "Romantic Movies"
   ]
   node [
-    id "Independent Movies"
+    id "Horror Movies"
+  ]
+  node [
+    id "Documentaries"
+  ]
+  node [
+    id "Music & Musicals"
+  ]
+  node [
+    id "Children & Family Movies"
+  ]
+  node [
+    id "Anime Features"
+  ]
+  node [
+    id "Sports Movies"
+  ]
+  node [
+    id "Classic Movies"
+  ]
+  node [
+    id "LGBTQ Movies"
+  ]
+  node [
+    id "Faith & Spirituality"
+  ]
+  node [
+    id "Movies"
   ]
   edge [
     source "Nesta Cooper"
